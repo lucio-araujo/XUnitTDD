@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\XUnitTDD\XUnitTDD.csproj" />
+  </ItemGroup>
+
 </Project>
